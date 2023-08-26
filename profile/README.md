@@ -16,9 +16,9 @@ The Bastion project comprises several modular repositories 📦 designed to abst
 
 ### Demo Applications 🚀
 
-- **[Demo NextJS App](https://github.com/bastion-wallet/sdk-demo-app)** 🖥️: React demo app showing Bastion SDK integration.
+- **[Demo App - advanced functionality](https://github.com/bastion-wallet/sdk-demo-app)** 🖥️: React demo app showing Bastion SDK integration and Smart Wallet usage.
 
-- **[Demo Scripts](https://github.com/bastion-wallet/demo-examples)** 📜: Example integration scripts and use cases.
+- **[Demo App - starter template](https://github.com/bastion-wallet/nextjs-demo-app)** 📜: Starter template for NextJS.
 
 ## Features ⭐
 
